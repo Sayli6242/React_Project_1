@@ -1,0 +1,11 @@
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# React/Node
+node_modules/
+/build
+.env
+.env.local
+.DS_Store
